@@ -9,7 +9,7 @@ permissions:
   pull-requests: write
   actions: write
 
- name: release-please
+name: release-please
 
 jobs:
   release-please:
